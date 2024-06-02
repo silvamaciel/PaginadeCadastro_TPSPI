@@ -29,7 +29,7 @@
 	        background-repeat: no-repeat;
 	       }
 		    .bg-pink {
-		        background-color: #FFB6C1 !important;
+		        background-color: #F4A460 !important;
 		    }
 		</style>
 	</head>
